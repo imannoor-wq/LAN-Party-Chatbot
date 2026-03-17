@@ -1,0 +1,20 @@
+{
+  "faq": [
+    {
+      "question": "Què és la LAN Party?",
+      "answer": "És un esdeveniment de 24 hores on portem els nostres ordinadors per jugar i compartir projectes!"
+    },
+    {
+      "question": "On es fa l'esdeveniment?",
+      "answer": "L'esdeveniment tindrà lloc al gimnàs de l'escola."
+    },
+    {
+      "question": "He de portar cables?",
+      "answer": "Sí, cal que portis un cable Ethernet i una regleta per connectar el teu equip."
+    },
+    {
+      "question": "Hi haurà menjar?",
+      "answer": "L'escola oferirà pizza per sopar, però et recomanem portar la teva pròpia beguda i snacks."
+    }
+  ]
+}
